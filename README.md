@@ -73,7 +73,7 @@ for char, code in huffman_codes.items():
 ```
 
 ## Output:
-<img width="262" height="145" alt="image" src="https://github.com/user-attachments/assets/308c8aad-503d-4dba-ae72-b63dce2d3463" />
+<img width="265" height="147" alt="image" src="https://github.com/user-attachments/assets/0b966b19-98af-4d64-9f2c-df47392d03f1" />
 
 
 ## Result
